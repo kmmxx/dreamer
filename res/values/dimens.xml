@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_right">4dip</dimen>
+    <dimen name="padding_left">4dip</dimen>
+    <dimen name="oppo_search_margin_left">0dip</dimen>
+    <dimen name="oppo_search_margin_right">-8dip</dimen>
+    <dimen name="oppo_empty_bottle_margin_top">-50dip</dimen>
+    <dimen name="height_option_menu_bar">67dip</dimen>
+    <dimen name="oppo_list_round_item_icon_text_margin">@oppo:dimen/oppo_list_item_small_icon_between_text_margin</dimen>
+    <dimen name="preference_fragment_padding_side">0dip</dimen>
+
+</resources>

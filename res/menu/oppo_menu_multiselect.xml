@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:oppo="http://schemas.android.com/apk/res/oppo" >
+
+    <group android:id="@+id/main_context_menu" >
+        <item
+            android:id="@+id/multiselect_menu_actionbar"
+            android:title="@string/hide_title"
+            oppo:scrollDownAfterClick="normal"/>
+        <item
+            android:id="@+id/multiselect_menu_new"
+            android:icon="@drawable/oppo_option_menu_bar_icon_add"
+            android:title="@string/oppo_option_menu_bar_new"
+            oppo:scrollDownAfterClick="never"/>
+        <item
+            android:id="@+id/multiselect_menu_edit"
+            android:icon="@drawable/oppo_optionmenubar_ic_edit"
+            android:title="@string/oppo_option_menu_bar_edit"
+            oppo:scrollDownAfterClick="normal"/>
+        <item
+            android:id="@+id/multiselect_menu_settings"
+            android:icon="@drawable/oppo_optionmenubar_ic_settings"
+            android:title="@string/oppo_option_menu_bar_setttings"
+            oppo:scrollDownAfterClick="never"/>
+    </group>
+
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry excluding="com/dreamer/canvas/FlagSecret.java|com/dreamer/canvas/MainView.java|com/dreamer/layout/adapter/PlayerAdapter.java|com/dreamer/tool/mediaplayer/VideoSurface.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="libs/android-support-v4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/system_libs"/>
+	<classpathentry kind="lib" path="extlib/class0.jar"/>
+	<classpathentry kind="lib" path="extlib/class1.jar"/>
+	<classpathentry kind="lib" path="extlib/class10.jar"/>
+	<classpathentry kind="lib" path="extlib/class11.jar"/>
+	<classpathentry kind="lib" path="extlib/class12.jar"/>
+	<classpathentry kind="lib" path="extlib/class13.jar"/>
+	<classpathentry kind="lib" path="extlib/class14.jar"/>
+	<classpathentry kind="lib" path="extlib/class15.jar"/>
+	<classpathentry kind="lib" path="extlib/class16.jar"/>
+	<classpathentry kind="lib" path="extlib/class17.jar"/>
+	<classpathentry kind="lib" path="extlib/class2.jar"/>
+	<classpathentry kind="lib" path="extlib/class3.jar"/>
+	<classpathentry kind="lib" path="extlib/class4.jar"/>
+	<classpathentry kind="lib" path="extlib/class5.jar"/>
+	<classpathentry kind="lib" path="extlib/class6.jar"/>
+	<classpathentry kind="lib" path="extlib/class7.jar"/>
+	<classpathentry kind="lib" path="extlib/class8.jar"/>
+	<classpathentry kind="lib" path="extlib/class9.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

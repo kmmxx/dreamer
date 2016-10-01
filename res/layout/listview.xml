@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <ListView
+        android:id="@+id/ListView"
+        android:layout_width="850dp"
+        android:layout_height="430dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="179dp"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10dp"
+        android:fadeScrollbars="false"
+        android:fastScrollEnabled="true"
+        android:focusable="true"
+        android:listSelector="@android:color/transparent"
+        android:scrollbarDefaultDelayBeforeFade="0"
+        android:scrollbarFadeDuration="0"
+        android:scrollbarThumbVertical="@drawable/ic_launcher"
+        android:scrollbarTrackVertical="@android:color/transparent"
+        android:scrollingCache="true"
+        android:smoothScrollbar="true" >
+    </ListView>
+
+    <FrameLayout
+        android:id="@+id/focus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/ic_launcher" >
+    </FrameLayout>
+
+</FrameLayout>

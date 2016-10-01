@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list">
+        <item>orange</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>blue</item>
+        <item>violet</item>
+    </string-array>
+
+    <!-- Used in OppoWidget/Demo2DOppoPagerTabStrip1 -->
+    <string-array name="pager_title">
+        <item>"推荐"</item>
+        <item>"电视剧"</item>
+    </string-array>
+
+    <!-- Used in OppoWidget/Demo2DOppoPagerTabStrip2 -->
+    <string-array name="pager_title2">
+        <item>"推荐"</item>
+        <item>"电视剧"</item>
+        <item>"节目"</item>
+    </string-array>
+
+    <!-- Used in OppoWidget/Demo2DOppoPagerTabStrip3 -->
+    <string-array name="pager_title3">
+        <item>"推荐"</item>
+        <item>"电视剧"</item>
+        <item>"节目"</item>
+        <item>"新闻"</item>
+    </string-array>
+
+    <!-- Used in Data/DemoSmsItemAdapter -->
+    <string-array name="sms_items">
+        <item>10086|蛇年到，愿灵蛇为您圈下好运，盘住健康，环抱财富；帮您绕过沟沟坎坎，越过多姿多彩的万水千山；邀您遍赏世间繁华，尽享人生美好；替您全揽蛇年福、禄、寿、喜、财五福入门，坐拥蛇年四季平安富贵、吉祥如意！</item>
+        <item>周立|蛇年快乐，大吉大利。</item>
+        <item>Amada|Happy new Year!</item>
+        <item>Amada|开心幸福数第一，看看信息变美丽，气死玫瑰无法比，青春脸</item>
+        <item>Amada|点燃一只烛光，幸福万年长；点亮两只烛光，快乐无限亮</item>
+        <item>13800138000|本月话费余额为2元，请及时充值！</item>
+        <item>李力|在这无比温馨的时刻，遥向你敬上一杯酒，连同我的衷心祝福，礼不贵</item>
+        <item>13800138000|本月话费余额为2元，请及时充值！</item>
+        <item>李力|点燃一只烛光，幸福万年长；点亮两只烛光，快乐无限亮；当所有的烛光都点亮，美好的明天充满无限希望，吉祥的光芒永远萦绕你身旁。祝生日快乐！</item>
+        <item>李佳 王明 王克|周末一起活动，打球怎么样？</item>
+        <item>10086|1.发送 CXBX 到 10086,查询当月套餐剩余短信条数。</item>
+        <item>95533|过年想回家，支付网站使用建行网银支付！立马回家</item>
+        <item>12580|相思是一种浓浓的酒，总在举杯时散发出醉人的芬芳；乡愁是一份厚厚的情，总在月圆时轻唤起难言的惆怅</item>
+        <item>周立|蛇年到，群蛇向你送祝福：金环蛇祝你财源广进，银环蛇祝你聪明伶俐，赤链蛇祝你生意红火</item>
+    </string-array>
+    <string-array name="sms_contents">
+        <item>send|接力龙年，福气连连，给力蛇年，好运不断，金蛇狂跳，吉祥如意到，金蛇摇摆，生活更精彩，祝你蛇年快乐，好运不断！</item>
+        <item>recv|龙潜福海，蛇舞祥云。愿你的生命之星在众生芸芸的天幕上闪耀永恒的光芒！蛇春祈福，快乐安康！</item>
+        <item>send|祝您新春快乐！据说把名字写在最前面才能让人印象深刻，把祝福放到最后发才最有效:)恭喜发财，心想事成！</item>
+        <item>recv|天地中有一种雪，从天而降，落地而化；人世间有一种爱，自吸引中诞生，在升华中融洽；朋友中有一个人是你，识于偶然，止于永久！祝春节快乐！</item>
+        <item>send|祝您和家人事事顺心！身体健康！</item>
+        <item>recv|祝您和家人新春愉快，阖家幸福！</item>
+        <item>send|声声炮竹辞旧岁，句句祝福贺新春。祝福您和家人身体健康，心想事成，步步高升！</item>
+        <item>recv|给您拜年了！祝您一家和和睦睦，一年开开心心，一生快快乐乐，一世平平安安，天天净胜百倍，月月喜气洋洋，年年财源广进。新春快乐！</item>
+        <item>send|新春快乐，阖家幸福，万事如意！</item>
+        <item>recv|新年快乐！</item>
+    </string-array>
+
+    <!-- Used in app/menu examples -->
+    <string-array name="entries_list_preference">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charlie Option 03</item>
+    </string-array>
+    <string-array name="entryvalues_list_preference">
+        <item>alpha</item>
+        <item>beta</item>
+        <item>charlie</item>
+    </string-array>
+
+</resources>

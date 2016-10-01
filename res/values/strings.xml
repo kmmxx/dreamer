@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">梦想者</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    
+    <string name="context_meun">上下文菜单</string>
+    <string name="sub_menu">子菜单</string>
+    
+
+     <string-array name="ary">
+        <item>项目 1</item>
+        <item>项目 2</item>
+    </string-array>
+</resources>

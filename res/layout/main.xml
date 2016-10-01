@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/glview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" />
+
+    <ImageView
+        android:id="@+id/loadingImg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="1920px"
+        android:layout_height="1080px"
+        android:background="@drawable/bg" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="700dp"
+        android:focusable="true"
+        android:hint="please input what you want to say"
+        android:textColor="@android:color/holo_blue_light"
+        android:textColorHint="@android:color/darker_gray"
+        android:textSize="30dp"
+        android:visibility="invisible" >
+    </EditText>
+
+</FrameLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- OppoDragSortListView -->
+    <drawable name="oppo_listview_dragsort_move">@oppo:drawable/oppo_listview_dragsort_move</drawable>
+    <drawable name="oppo_optionmenubar_ic_edit">@oppo:drawable/oppo_optionmenubar_ic_edit</drawable>
+    <drawable name="oppo_optionmenubar_ic_settings">@oppo:drawable/oppo_optionmenubar_ic_settings</drawable>
+    <drawable name="oppo_optionmenubar_ic_delete">@oppo:drawable/oppo_optionmenubar_ic_delete</drawable>
+    <drawable name="oppo_optionmenubar_ic_sort">@oppo:drawable/oppo_optionmenubar_ic_sort</drawable>
+    <drawable name="oppo_optionmenubar_ic_copy">@oppo:drawable/oppo_optionmenubar_ic_copy</drawable>
+    <drawable name="oppo_optionmenubar_ic_move">@oppo:drawable/oppo_optionmenubar_ic_move</drawable>
+    <drawable name="oppo_optionmenubar_ic_detail">@oppo:drawable/oppo_optionmenubar_ic_detail</drawable>
+    <drawable name="oppo_optionmenubar_ic_set_as">@oppo:drawable/oppo_optionmenubar_ic_set_as</drawable>
+    <drawable name="oppo_optionmenubar_ic_rename">@oppo:drawable/oppo_optionmenubar_ic_rename</drawable>
+
+</resources>

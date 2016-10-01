@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <com.dreamer.layout.view.GalleryFlow
+        android:id="@+id/Gallery_main"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+        android:spacing="0dip" />
+
+    <com.dreamer.layout.view.RotationGallery
+        android:id="@+id/rgview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </com.dreamer.layout.view.RotationGallery>
+
+</FrameLayout>

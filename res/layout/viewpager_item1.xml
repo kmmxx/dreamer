@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/act_solution_1_sv"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:text="\nListView上方数据\n" />
+
+            <com.dreamer.view.ListViewForScrollView
+                android:id="@+id/list"
+                android:layout_width="fill_parent"
+                android:layout_height="300dp" >
+            </com.dreamer.view.ListViewForScrollView>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:text="\nListView下方数据\n" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

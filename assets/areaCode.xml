@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<citys>
+
+    <city
+        name="长沙市"
+        code="0731" >
+
+        <county
+            name="长沙市区"
+            code="073100" />
+
+        <county
+            name="长沙县"
+            code="073101" />
+
+        <county
+            name="宁乡县"
+            code="073102" />
+
+        <county
+            name="望城县"
+            code="073103" />
+
+        <county
+            name="捞刀河镇"
+            code="073104" />
+
+        <county
+            name="雷锋镇"
+            code="073105" />
+
+        <county
+            name="雨敞坪镇"
+            code="073106" />
+
+        <county
+            name="坪塘乡"
+            code="073107" />
+
+        <county
+            name="桥驿镇"
+            code="073108" />
+    </city>
+
+    <city
+        name="常德市"
+        code="0736" >
+
+        <county
+            name="常德市区"
+            code="073600" />
+
+        <county
+            name="石门县"
+            code="073601" />
+
+        <county
+            name="桃源县"
+            code="073602" />
+
+        <county
+            name="武陵区"
+            code="073603" />
+
+        <county
+            name="鼎城区"
+            code="073604" />
+
+        <county
+            name="津市市"
+            code="073605" />
+
+        <county
+            name="安乡县"
+            code="073606" />
+
+        <county
+            name="汉寿县"
+            code="073607" />
+
+        <county
+            name="澧 县"
+            code="073608" />
+
+        <county
+            name="临澧县"
+            code="073609" />
+    </city>
+
+    <city
+        name="衡阳市"
+        code="0734" >
+
+        <county
+            name="衡阳市区"
+            code="073400" />
+
+        <county
+            name="衡阳县"
+            code="073401" />
+
+        <county
+            name="衡南县"
+            code="073402" />
+
+        <county
+            name="衡山县"
+            code="073403" />
+
+        <county
+            name="衡东县"
+            code="073404" />
+
+        <county
+            name="常宁市"
+            code="073405" />
+
+        <county
+            name="祁东县"
+            code="073406" />
+
+        <county
+            name="耒阳市"
+            code="073407" />
+
+        <county
+            name="南岳县"
+            code="073408" />
+    </city>
+
+    <city
+        name="怀化市"
+        code="0745" >
+
+        <county
+            name="怀化市区"
+            code="074500" />
+
+        <county
+            name="洪江市"
+            code="074501" />
+
+        <county
+            name="沅陵县"
+            code="074502" />
+
+        <county
+            name="辰溪县"
+            code="074503" />
+
+        <county
+            name="溆浦县"
+            code="074504" />
+
+        <county
+            name="中方县"
+            code="074505" />
+
+        <county
+            name="会同县"
+            code="074506" />
+
+        <county
+            name="麻阳苗族自治县"
+            code="074507" />
+
+        <county
+            name="新晃侗族自治县"
+            code="074508" />
+
+        <county
+            name="芷江侗族自治县"
+            code="074509" />
+            
+        <county
+            name="靖州苗族侗族自治县"
+            code="074510" />
+
+        <county
+            name="通道侗族自治县"
+            code="074511" />
+        <county
+            name="洪江区"
+            code="074512" />
+    </city>
+
+    <city
+        name="娄底市"
+        code="0738" >
+
+        <county
+            name="娄底市区"
+            code="073800" />
+
+        <county
+            name="涟源市"
+            code="073801" />
+
+        <county
+            name="冷水江市"
+            code="073802" />
+
+        <county
+            name="新化县"
+            code="073803" />
+
+        <county
+            name="双峰县"
+            code="073804" />
+
+    </city>
+
+    <city
+        name="邵阳市"
+        code="0739" >
+
+        <county
+            name="邵阳市区"
+            code="073900" />
+
+        <county
+            name="邵东县"
+            code="073901" />
+
+        <county
+            name="洞口县"
+            code="073902" />
+
+        <county
+            name="新邵县"
+            code="073903" />
+
+        <county
+            name="绥宁县"
+            code="073904" />
+
+        <county
+            name="新宁县"
+            code="073905" />
+
+        <county
+            name="邵阳县"
+            code="073906" />
+
+        <county
+            name="隆回县"
+            code="073907" />
+
+        <county
+            name="城步苗族自治县"
+            code="073908" />
+
+        <county
+            name=" 武冈县"
+            code="073909" />
+    </city>
+
+    <city
+        name="永州市"
+        code="0746" >
+
+        <county
+            name="永州市区"
+            code="074600" />
+
+        <county
+            name="祁阳县"
+            code="074601" />
+
+        <county
+            name="蓝山县"
+            code="074602" />
+
+        <county
+            name="宁远县"
+            code="074603" />
+
+        <county
+            name="新田县"
+            code="074604" />
+
+        <county
+            name="东安县"
+            code="074605" />
+
+        <county
+            name="江永县"
+            code="074606" />
+
+        <county
+            name="道县"
+            code="074607" />
+
+        <county
+            name="双牌县"
+            code="074608" />
+
+        <county
+            name="江华瑶族自治县"
+            code="074609" />
+    </city>
+    
+    <city
+        name="张家界市"
+        code="0744" >
+
+        <county
+            name="张家界市区"
+            code="074400" />
+
+        <county
+            name="永定区"
+            code="074401" />
+
+        <county
+            name="武陵源区"
+            code="074402" />
+
+        <county
+            name="慈利县"
+            code="074403" />
+
+        <county
+            name="桑植县"
+            code="074404" />
+
+    </city>
+    
+    <city
+        name="株洲市"
+        code="0733" >
+
+        <county
+            name="株洲市"
+            code="073300" />
+
+        <county
+            name="醴陵市"
+            code="073301" />
+
+        <county
+            name="株洲县"
+            code="073302" />
+
+        <county
+            name="炎陵县"
+            code="073303" />
+
+        <county
+            name="茶陵县"
+            code="073304" />
+            
+        <county
+            name="攸县"
+            code="073305" />
+
+    </city>
+    
+    <city
+        name="湘西土家族苗族自治州"
+        code="0743" >
+
+        <county
+            name="湘西土家族苗族自治州市区"
+            code="074300" />
+
+        <county
+            name="吉首市"
+            code="074301" />
+
+        <county
+            name="古丈县"
+            code="074302" />
+
+        <county
+            name="龙山县"
+            code="074303" />
+
+        <county
+            name="永顺县"
+            code="074604" />
+
+        <county
+            name="凤凰县"
+            code="074605" />
+
+        <county
+            name="泸溪县"
+            code="074606" />
+
+        <county
+            name="保靖县"
+            code="074607" />
+
+        <county
+            name="花垣县"
+            code="074608" />
+
+    </city>
+    
+      <city
+        name="郴州市"
+        code="7350" >
+
+        <county
+            name="郴州市区"
+            code="073500" />
+
+        <county
+            name="北湖区"
+            code="073501" />
+
+        <county
+            name="苏仙区"
+            code="073502" />
+
+        <county
+            name="资兴市"
+            code="073503" />
+
+        <county
+            name="宜章县"
+            code="073504" />
+            
+        <county
+            name="汝城县"
+            code="073505" />
+            
+         <county
+            name="安仁县"
+            code="073506" />
+
+        <county
+            name="嘉禾县"
+            code="073507" />
+
+        <county
+            name="临武县"
+            code="073508" />
+
+        <county
+            name="桂东县"
+            code="073509" />
+            
+        <county
+            name="永兴县"
+            code="073510" />
+            
+         <county
+            name="桂阳县"
+            code="073511" />
+
+    </city>
+    
+    <city
+        name="岳阳市"
+        code="0730" >
+        <county
+            name="华容"
+            code="073003" />
+
+        <county
+            name="临湘"
+            code="073004" />
+
+        <county
+            name="平江"
+            code="073005" />
+
+        <county
+            name="汨罗"
+            code="073006" />
+		<county
+            name="云溪"
+            code="073007" />
+		<county
+            name="君山"
+            code="073008" />
+		<county
+            name="屈原"
+            code="073009" />
+    </city>
+    
+    <city
+        name="湘潭市"
+        code="0732" >
+
+        <county
+            name="湘潭市"
+            code="073200" />
+
+        <county
+            name="湘潭县"
+            code="073203" />
+
+        <county
+            name="韶山"
+            code="073201" />
+
+        <county
+            name="湘乡"
+            code="073202" />
+
+    </city>
+    
+    <city
+        name="益阳市"
+        code="0737" >
+
+        <county
+            name="益阳市"
+            code="073700" />
+
+        <county
+            name="桃江"
+            code="073701" />
+
+        <county
+            name="安化"
+            code="073702" />
+
+        <county
+            name="湘乡"
+            code="073703" />
+
+        <county
+            name="南县"
+            code="073704" />
+
+        <county
+            name="沅江"
+            code="073705" />
+
+    </city>
+
+
+</citys>

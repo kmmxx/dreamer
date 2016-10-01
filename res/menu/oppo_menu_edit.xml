@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:oppo="http://schemas.android.com/apk/res/oppo" >
+
+    <group android:id="@+id/mark_edit_menu" >
+        <item
+            android:id="@+id/mark_menu_delete"
+            android:title="@string/oppo_option_menu_bar_delete"
+            oppo:scrollDownAfterClick="normal"/>
+        <item
+            android:id="@+id/mark_menu_backup"
+            android:title="@string/oppo_option_menu_bar_backup"
+            oppo:scrollDownAfterClick="normal"/>
+        <item
+            android:id="@+id/mark_menu_copy"
+            android:icon="@drawable/oppo_optionmenubar_ic_copy"
+            android:title="@string/oppo_option_menu_bar_copy"
+            oppo:scrollDownAfterClick="normal"/>
+        <item
+            android:id="@+id/mark_menu_move"
+            android:icon="@drawable/oppo_optionmenubar_ic_move"
+            android:title="@string/oppo_option_menu_bar_move"
+            oppo:scrollDownAfterClick="normal"/>
+        <item
+            android:id="@+id/mark_menu_detail"
+            android:icon="@drawable/oppo_optionmenubar_ic_detail"
+            android:title="@string/oppo_option_menu_bar_detail"
+            oppo:scrollDownAfterClick="normal"/>
+        <item
+            android:id="@+id/mark_menu_set_as"
+            android:icon="@drawable/oppo_optionmenubar_ic_set_as"
+            android:title="@string/oppo_option_menu_bar_set_as"
+            oppo:scrollDownAfterClick="normal"/>
+        <item
+            android:id="@+id/mark_menu_rename"
+            android:icon="@drawable/oppo_optionmenubar_ic_rename"
+            android:title="@string/oppo_option_menu_bar_rename"
+            oppo:scrollDownAfterClick="normal"/>
+    </group>
+
+</menu>

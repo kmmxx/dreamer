@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="oppoListViewTextAppearanceLarge" format="reference" />
+    <attr name="oppoListViewTextAppearanceSmall" format="reference" />
+    <declare-styleable name="ScanLine">  
+        <!-- Style of the circle indicator. -->  
+        <attr name="x" format="integer"/>  
+        <!-- Style of the icon indicator's views. -->  
+        <attr name="y" format="integer"/>  
+        <!-- Style of the line indicator. -->  
+        <attr name="angle" format="float"/>  
+    </declare-styleable>
+
+</resources>
